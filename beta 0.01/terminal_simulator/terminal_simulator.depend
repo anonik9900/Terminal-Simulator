@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1529880840 source:c:\users\nicholas impieri\desktop\{dev}\terminal_simulator\terminal_simulator\helloworld.cpp
+	<iostream>
+
+1529961466 source:c:\users\nicholas impieri\desktop\{dev}\terminal_simulator\terminal_simulator\main.cpp
+	<iostream>
+	<string>
+	"makedir.h"
+	"help.h"
+	"soundplayer.h"
+
+1529880947 c:\users\nicholas impieri\desktop\{dev}\terminal_simulator\terminal_simulator\include\helloworld.h
+
+1529881130 source:c:\users\nicholas impieri\desktop\{dev}\terminal_simulator\terminal_simulator\src\helloworld.cpp
+	<iostream>
+
+1529881744 c:\users\nicholas impieri\desktop\{dev}\terminal_simulator\terminal_simulator\include\makedir.h
+
+1529949770 source:c:\users\nicholas impieri\desktop\{dev}\terminal_simulator\terminal_simulator\src\makedir.cpp
+	<iostream>
+	<direct.h>
+	<string>
+	<windows.h>
+
+1529962317 source:c:\users\nicholas impieri\desktop\{dev}\terminal_simulator\terminal_simulator\src\help.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
+1529886002 c:\users\nicholas impieri\desktop\{dev}\terminal_simulator\terminal_simulator\include\help.h
+
+1529962246 source:c:\users\nicholas impieri\desktop\{dev}\terminal_simulator\terminal_simulator\src\soundplayer.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	<mmsystem.h>
+	<fstream>
+
+1529952331 c:\users\nicholas impieri\desktop\{dev}\terminal_simulator\terminal_simulator\include\soundplayer.h
+
