@@ -1,0 +1,169 @@
+html,body{
+  width: 100%;
+
+  margin: 0 auto;
+}
+
+/*Navbar*/
+ul.nav {
+    list-style-type: none;
+    margin: 0px 0px 0px 0px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li.nav {
+    float: left;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+li.nav2 {
+    float: center;
+    margin: 0px 190px 0px 0px;
+    text-align: center;
+    align-items: center;
+    font-family: sans-serif;
+    font-size: 25px;
+}
+
+li.nav2 a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li.nav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li.nav a:hover {
+    background-color: red;
+}
+
+
+/* Fine nav bar */
+
+
+
+
+#sezione{
+    background-color: black;
+    opacity: 0.8;  /*#2196F3; blue*/
+    height: 100%;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+#sezione2{
+    background-color: #2196F3;
+    height: 100%;
+    margin: 0px 0px 0px 0px;
+    padding: 50px 0px 0px 0px;
+}
+
+#footer{
+    background-color: black;
+    opacity: 0.8;  /*#2196F3; blue*/
+    height: 100%;
+    margin: 0px 0px 0px 0px;
+    padding: 1px 0px 0px 0px;
+}
+
+h2.sezione2{
+  color: white;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+
+p.sezione2{
+  color: white;
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+/*Comparazione Immagine */
+img.comparison{
+
+}
+/*Fine Comparazioni */
+
+.btn {
+    font-weight: 500;
+    border-width: 2px;
+    font-style: normal;
+    letter-spacing: 1px;
+    margin: .4rem .8rem;
+    white-space: normal;
+    /*-webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;*/
+    transition: all 0.3s ease-in-out;
+    padding: 1rem 3rem;
+    border-radius: 3px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    word-break: break-word;
+}
+
+.display-4 {
+    font-family:  sans-serif;
+    font-size: 1rem;
+}
+
+.btn-primary, .btn-primary:active {
+    background-color: blue; /*#149dcc;*/
+    border-color: #149dcc;
+    color: #ffffff;
+}
+
+.btn-primary:hover{
+    background-color: red;
+}
+
+.mbr-section-btn a.btn:not(.btn-form) {
+    border-radius: 100px;
+}
+
+p.screen{
+  color: white;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+
+p.footer{
+  color: white;
+  font-size: 25px;
+  font-family: sans-serif;
+}
+
+a.footer{
+  color: #2196F3;
+  font-size: 25px;
+  font-family: sans-serif;
+  text-decoration: none;
+}
+
+a.footer:hover{
+  color: red;
+  font-size: 25px;
+  font-family: sans-serif;
+  text-decoration: underline;
+}
+
+/*
+h2 {
+	font-weight: 300;
+	margin: 4vh 4vw;
+	letter-spacing: 3px;
+	color: grey;
+	text-transform: uppercase;
+}
+*/
