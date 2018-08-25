@@ -1,8 +1,0 @@
-v0.02
-
-*Fixed various issues
-*Improved code
-*Added license inside the source code
-*Improved cicle (mkdir,play_sound and help)
-*Fixed the help form cause crash on windows
-
