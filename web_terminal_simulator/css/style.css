@@ -32,7 +32,7 @@ li.nav2 a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 79px;
     text-decoration: none;
 }
 
@@ -50,6 +50,7 @@ li.nav a:hover {
 
 
 /* Fine nav bar */
+
 
 
 
@@ -156,6 +157,10 @@ a.footer:hover{
   font-size: 25px;
   font-family: sans-serif;
   text-decoration: underline;
+}
+
+a{
+  text-decoration: none;
 }
 
 /*
